@@ -1,4 +1,4 @@
-// Copyright 2020 Ariel H Garcia Traba <cursos.agt@gmail.com>
+// 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

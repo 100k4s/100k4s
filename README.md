@@ -1,15 +1,15 @@
-# **Especialista en Seguridad Ofensiva** ️
+# **Seguridad en Aplicaciones** ️
 
 **Rompiendo barreras, descubriendo vulnerabilidades.**
 
-Soy un apasionado de la seguridad cibernética, especializado en encontrar y explotar vulnerabilidades en aplicaciones web y redes. Mi objetivo es ayudar a organizaciones a fortalecer su seguridad y proteger sus activos digitales.
+Soy un apasionado de la seguridad cibernética, especializado en encontrar y explotar vulnerabilidades en aplicaciones web y redes. Mi objetivo es ayudar a organizaciones a fortalecer su seguridad y proteger activos digitales.
 
 **🛠️Habilidades:**
-* **Pentesting:** OWASP Top 10, SQL Injection, XSS, CSRF, RFI, LFI, etc.
-* **Explotación:** Reverse engineering, análisis de malware, fuzzing
-* **Herramientas:** Burp Suite, Metasploit, Nmap, OWASP ZAP, etc.
-* **Lenguajes:** Python, Ruby, Bash, PowerShell
-* **Cloud:** AWS, Azure, GCP
+* **Pentesting:** OWASP Top 10, SQL Injection, XSS, CSRF, RFI, LFI, API etc.
+* **Explotación:** Reverse engineering, análisis de malware, fuzzing, Elevacion y Escalada de privilegios
+* **Herramientas:** Burp Suite, Metasploit, Nmap, OWASP ZAP, Fiddler, Web Debugging & Newtworking
+* **Lenguajes:** Python, Ruby, Bash, PowerShell, JavaScript
+* **Cloud:** AWS, Azure, GCP, Oracle
 
 **🛡️Proyectos:**
 * **[Nombre del proyecto 1]:** Desarrollo de una herramienta de fuzzing personalizada para [propósito].
@@ -20,8 +20,8 @@ Soy un apasionado de la seguridad cibernética, especializado en encontrar y exp
     * [Enlace al repositorio]
 
 **Investigación:**
-* **[Título de la investigación 1]:** [Breve descripción]
-    * [Enlace al artículo o publicación]
+* **[Back To Office LATAM/USA Project]:** []
+    * []
 * **[Título de la investigación 2]:** [Breve descripción]
     * [Enlace al artículo o publicación]
 
@@ -46,11 +46,11 @@ Si encuentras algún error o tienes alguna sugerencia, no dudes en abrir un issu
 Download in progress
 
 [   ]
-[=  ]
-[===]
-[====]
-[=====]
-[======]
-[========]
-[========]
-PROCESS COMPLETED!
+ [=  ]
+  [===]
+   [====]
+    [=====]
+     [======]
+      [========]
+       [========]
+        PROCESS COMPLETED!

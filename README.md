@@ -25,6 +25,11 @@ Soy un apasionado de la seguridad cibernética, especializado en encontrar y exp
 * **[AppSec Researching]:** []
     * []
 
+**Conferencias:**
+* **[SASO conferencia de informatica]:** [Intro a DevSecOps]
+   *[https://web.archive.org/web/20230531183513/https://sasoconf.ar/disertantes-expositores/]    
+
+
 
 
 Download in progress

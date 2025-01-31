@@ -12,18 +12,18 @@ Soy un apasionado de la seguridad cibernética, especializado en encontrar y exp
 * **Cloud:** AWS, Azure, GCP, Oracle
 
 **🛡️Proyectos:**
-* **[Nombre del proyecto 1]:** Desarrollo de una herramienta de fuzzing personalizada para [propósito].
+* **[Nombre del proyecto 1]:** Desarrollo de una herramienta de lectura personalizada para [Base de Datos].
     * [Enlace al repositorio]
-* **[Nombre del proyecto 2]:** Análisis de vulnerabilidades en [plataforma específica].
+* **[Nombre del proyecto 2]:** Análisis de vulnerabilidades en [CTI].
     * [Enlace al repositorio]
-* **[Nombre del proyecto 3]:** Creación de un exploit para [vulnerabilidad específica].
+* **[Nombre del proyecto 3]:** Creación de un exploit para [Linux].
     * [Enlace al repositorio]
 
 **Investigación:**
 * **[Back To Office LATAM/USA Project]:** []
     * []
-* **[Título de la investigación 2]:** [Breve descripción]
-    * [Enlace al artículo o publicación]
+* **[AppSec Researching]:** []
+    * []
 
 
 
